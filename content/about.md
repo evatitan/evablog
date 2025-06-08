@@ -1,5 +1,5 @@
 ---
-title: "I’m John Doe, A content writer based in LDN, currently at Bookworm"
+title: "I’m Evatitan, a web developer based in Spain"
 meta_title: "About"
 image: "/images/author.jpg"
 layout: "about"
@@ -12,6 +12,10 @@ social:
   instagram: "https://www.instagram.com"
 ---
 
-A content writer with over 12 years experience working across brand identity, publishing and digital products. Maecenas sit amet purus eget ipsum elementum venenatis. Aenean maximus urna magna elementum venenatis, quis rutrum mi semper non purus eget.
+👋 When I chosen to become a programmer a couple of years ago, the prospect of lifelong learning was one of the main motivating factors. I enjoy learning new things and keep me update with the world. This makes me feel more comfortable and confident.
 
-Purus eget ipsum elementum venenatis. Aenean maximus urna magna elementum venenatis, quis rutrum mi semper non purus eget ipsum elementum venenatis.
+So I created this personal blog to share what I'm learning, document my coding journey, and explore topics such as frontend & backend development, as well as anything else that sparks my curiosity. I believe that writing is one of the best ways to learn and grow as a developer. It also improves my English skills - use it or lose it! Of course I choose to use them and take control them. 
+
+Whether you're also learning to code too or are just curious, I hope you find something helpful, interesting or inspiring here. 🤖
+
+
