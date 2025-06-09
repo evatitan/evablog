@@ -1,7 +1,7 @@
 ---
 title: "I’m Evatitan, a web developer based in Spain"
 meta_title: "About"
-image: "/images/author.jpg"
+image: /images/authors/eva.png
 layout: "about"
 draft: false
 
