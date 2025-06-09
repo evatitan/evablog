@@ -8,4 +8,4 @@ social:
   instagram: https://www.instagram.com/
 ---
 
-I have used the name "Eva" for more than ten years, both in English and Spanish. It carries with it many memories of my life in Europe. It will continue with my new phase as a personal blogger.
+Eva is beginning her journey as a personal blogger, sharing thoughts and experiences along the way.
