@@ -1,5 +1,5 @@
 ---
-title: "Javascript Operators for beginner"
+title: "Javascript Operators for beginners"
 description: "programming operators"
 date: 2025-06-09
 image: "/images/posts/jsoperators.jpg" 
