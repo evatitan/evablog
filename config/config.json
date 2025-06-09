@@ -1,12 +1,12 @@
 {
   "site": {
-    "title": "Bookworm Next | Personal Blog Theme",
+    "title": "Eva blog | Personal Blog",
     "base_url": "/",
     "favicon": "/images/favicon.png",
     "logo": "/images/logo.png",
     "logo_width": "200",
     "logo_height": "34",
-    "logo_text": "Bookworm Light"
+    "logo_text": "Eva blog"
   },
 
   "settings": {
@@ -24,6 +24,6 @@
   "metadata": {
     "meta_author": "Themefisher",
     "meta_image": "/images/og-image.png",
-    "meta_description": "Next Boilerplate"
+    "meta_description": "Boilerplate"
   }
 }
