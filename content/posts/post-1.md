@@ -1,7 +1,7 @@
 ---
 title: "Javascript Operators for beginners"
 description: "programming operators"
-date: 2025-06-09
+date: 2025-05-01
 image: "/images/posts/jsoperators.jpg" 
 categories: ["programming"]
 authors: ["Evatitan"]
